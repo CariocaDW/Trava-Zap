@@ -29,7 +29,7 @@ class Trava_Zap {
 
         if ($save == "s" or $save == "S") {
 
-            $archive_dir = ".txt//".$title;
+            $archive_dir = "txt//".$title;
 
             $archive = fopen($archive_dir,"w");
 

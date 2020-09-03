@@ -12,3 +12,6 @@ Gerador de Trava Zap Open Source em php para pc
 4. digite os caracteres que travam o whatsapp
 5. digite a quantidade de vezes que ira repetir os caracteres
 6. aperte 's' para salvar o arquivo e 'n' para não salvar o arquivo
+
+# Onde achar caracteres?
+http://www.tamasoft.co.jp/en/general-info/unicode.html
